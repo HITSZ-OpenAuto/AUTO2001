@@ -1,19 +1,7 @@
-# 课程代码 - 课程名
+# AUTO2001 - 自动化专业导论
 
-<!--
-1. 通过 [Shields.io](https://shields.io/) 生成如下的徽章，标注课程的基本信息。
-2. 请根据课程的具体内容增删仓库的子文件夹。子文件夹建议使用小写英文，如果需要附加说明，则添加 README.md。注意，添加 README 后 .gitkeep 文件仍需保留。
-3. 关于课程的描述可以不止以下几个方面，酌情增删。
-4. hoa.moe 生成本课程对应页面后，请将页面链接复制到 GitHub 仓库的 About/Website 中。
-5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
--->
-
-![考试课](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)
 ![考查课](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin)
-![跨专业选修课](https://img.shields.io/badge/%E8%B7%A8%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE-lightskyblue)
-![实验](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple)
-![文理通识](https://img.shields.io/badge/%E6%96%87%E7%90%86%E9%80%9A%E8%AF%86-orange)
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1-moccasin)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 ![作业40%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat)
@@ -22,10 +10,30 @@
 
 ## 授课教师
 
-- （教师名）
-  - 授课风格：
-  - 听课建议：
-  - ……
+- 楼云江
+  - 
+
+- 吴爱国
+  - 
+
+
+## 授课内容
+
+主要内容：
+
+- 自动化的概念与发展简史
+- 自动化基本原理（这部分原来由吴爱国教授负责讲授），包括：
+  - 两类自动控制：开环与闭环
+  - 自动控制的定性描述（方框图等）与定量描述（数学模型，如传递函数）
+    - 建立控制对象的数学模型是自动化专业的核心知识
+  - 自动控制系统的基本要求——稳、快、准，及描述方式
+  - 自动控制系统的控制方式（前馈、反馈、串级、多回路……）
+  - PID 控制律，PID 各环节的作用
+  - 反馈的重要性，关注**不确定性**等概念，自动化与控制的关系
+- 现代自动化初览（科普）
+- 自动化专业培养目标、课程体系、学术体系、发展前景
+
+> 文 / [Oliver Wu](https://github.com/OliverWu515)
 
 ## 关于考试
 
