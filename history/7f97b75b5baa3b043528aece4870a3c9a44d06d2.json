@@ -1,0 +1,72 @@
+{
+  ".github/workflows/format-readme.yml": {
+    "size": 8659,
+    "time": 1769804587,
+    "hash": "02e6f3b454d89852c7c07f7478c0628c892a81d6"
+  },
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1764303423,
+    "hash": "a2e7a6ee47dc056c9a0fff97dd379c885746d4cd"
+  },
+  "AUTO2001.toml": {
+    "size": 1157,
+    "time": 1768275187,
+    "hash": "654d12fcd1619a9498c733e088f6a138534f70ce"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1764303423,
+    "hash": "a2e7a6ee47dc056c9a0fff97dd379c885746d4cd"
+  },
+  "README.md": {
+    "size": 962,
+    "time": 1769800254,
+    "hash": "4c8cfd8f78a8b726daa6324b425fb31cd6b35f85"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1764303423,
+    "hash": "a2e7a6ee47dc056c9a0fff97dd379c885746d4cd"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1764303423,
+    "hash": "a2e7a6ee47dc056c9a0fff97dd379c885746d4cd"
+  },
+  "exams/2021哈工大（深圳）自动化专业导论试题A.pdf": {
+    "size": 208382,
+    "time": 1764303934,
+    "hash": "4ae21ce738ade21e209ba60831a385ad0d3408a9"
+  },
+  "exams/2021哈工大（深圳）自动化专业导论试题A参考答案.docx": {
+    "size": 202209,
+    "time": 1764303934,
+    "hash": "4ae21ce738ade21e209ba60831a385ad0d3408a9"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1764303423,
+    "hash": "a2e7a6ee47dc056c9a0fff97dd379c885746d4cd"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1764303423,
+    "hash": "a2e7a6ee47dc056c9a0fff97dd379c885746d4cd"
+  },
+  "readme.toml": {
+    "size": 1077,
+    "time": 1769800253,
+    "hash": "c474cad2354762f245325d5d19db9536091e2667"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1764303423,
+    "hash": "a2e7a6ee47dc056c9a0fff97dd379c885746d4cd"
+  },
+  "tag.txt": {
+    "size": 74,
+    "time": 1764303934,
+    "hash": "4ae21ce738ade21e209ba60831a385ad0d3408a9"
+  }
+}
