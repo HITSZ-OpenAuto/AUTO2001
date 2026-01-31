@@ -1,15 +1,16 @@
-# 自动化专业导论
+course_name = "自动化专业导论"
+repo_type = "normal"
+course_code = "AUTO2001"
 
-**课程代码:** AUTO2001
+# 授课教师 (Lecturers)
+[[lecturers]]
+name = "楼云江"
+[[lecturers]]
+name = "吴爱国"
 
-## 授课教师
-
-### 楼云江
-
-### 吴爱国
-
-## 课程评价
-
+# 核心课程评价区块
+[[course]]
+content = """
 主要内容：
 - 自动化的概念与发展简史
 - 自动化基本原理（这部分原来由吴爱国教授负责讲授），包括：
@@ -22,5 +23,5 @@
   - 反馈的重要性，关注**不确定性**等概念，自动化与控制的关系
 - 现代自动化初览（科普）
 - 自动化专业培养目标、课程体系、学术体系、发展前景
-
-> 文 / [Oliver Wu]([https://github.com/OliverWu515](https://github.com/OliverWu515))
+"""
+author = { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "" }
