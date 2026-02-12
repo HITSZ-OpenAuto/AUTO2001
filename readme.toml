@@ -32,6 +32,9 @@ content = """
 """
 author = { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "" }
 
+[[sections.items]]
+content = "测试内容1，管理员测试pr功能文本，请通过"
+author = {name = "就离谱了", link = "blog.example", date = "2026-02"}
 [[sections]]
 title = "关于考试"
 

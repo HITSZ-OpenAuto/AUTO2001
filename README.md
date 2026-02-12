@@ -1,9 +1,5 @@
 # AUTO2001 - 自动化专业导论
 
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业40%](https://img.shields.io/badge/作业-40%25-wheat)
-![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
-
 本课程主要介绍自动化的概念与发展简史、自动化基本原理（包括开环与闭环、PID控制律等）、现代自动化科普以及自动化专业的培养目标和课程体系。
 
 ## 授课教师
@@ -28,6 +24,10 @@
 - 自动化专业培养目标、课程体系、学术体系、发展前景
 
 > 文 / [Oliver Wu](https://github.com/OliverWu515)
+
+测试内容1，管理员测试pr功能文本，请通过
+
+> 文 / [就离谱了](blog.example)，2026-02
 
 ## 关于考试
 
