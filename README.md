@@ -28,9 +28,3 @@
 - 自动化专业培养目标、课程体系、学术体系、发展前景
 
 > 文 / [Oliver Wu](https://github.com/OliverWu515)
-
-## 关于考试
-
-成绩构成：作业 40%，期末考试 60%。
-
-> 文 / [Oliver Wu](https://github.com/OliverWu515)
