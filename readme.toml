@@ -31,10 +31,3 @@ content = """
 - 自动化专业培养目标、课程体系、学术体系、发展前景
 """
 author = { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "" }
-
-[[sections]]
-title = "关于考试"
-
-[[sections.items]]
-content = "成绩构成：作业 40%，期末考试 60%。"
-author = { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "" }
