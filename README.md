@@ -10,6 +10,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 楼云江
 - 吴爱国
 

@@ -1,15 +1,15 @@
 course_name = "自动化专业导论"
-repo_type = "normal"
 course_code = "AUTO2001"
-
+repo_type = "normal"
 description = "本课程主要介绍自动化的概念与发展简史、自动化基本原理（包括开环与闭环、PID控制律等）、现代自动化科普以及自动化专业的培养目标和课程体系。"
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "楼云江"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "吴爱国"
-
 
 [[sections]]
 title = "课程内容"
