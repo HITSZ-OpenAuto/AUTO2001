@@ -1,10 +1,5 @@
 # AUTO2001 - 自动化专业导论
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业40%](https://img.shields.io/badge/作业-40%25-wheat)
-![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
 
 本课程主要介绍自动化的概念与发展简史、自动化基本原理（包括开环与闭环、PID控制律等）、现代自动化科普以及自动化专业的培养目标和课程体系。
 
